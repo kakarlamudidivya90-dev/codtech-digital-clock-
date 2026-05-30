@@ -156,7 +156,6 @@ endmodule
 ### **3. Timing Waveforms Screen Shot (EPWave)**
 ![Timing Waveforms](Screenshot_20260530_143406.jpg)
 
-
 ---
 
 ## 🎓 CONCLUSION

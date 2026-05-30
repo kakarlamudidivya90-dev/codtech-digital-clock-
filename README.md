@@ -149,7 +149,6 @@ endmodule
 
 ### **1. Console Output Log Screen Shot**
 ![Console Output](Screenshot_2026_0530_113348402.jpg)
-#### **2. Console output log screen shot**
 ![Console Output 2](Screenshot_113402.jpg)
 
 

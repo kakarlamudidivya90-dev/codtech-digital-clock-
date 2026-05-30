@@ -150,11 +150,11 @@ endmodule
 ### **1. Console Output Log Screen Shot**
 ![Console Output1](Screenshot_2026_0530_113348.jpg)
 
-### **2. Verilog Code & Testbench**
-![EDA Playground Code](Screenshot_2026_0530_143510.jpg)
+### **2. Console output log screen shot**
+![EDA Code](Screenshot_20260530_143510.jpg)
 
 ### **3. Timing Waveforms Screen Shot (EPWave)**
-
+![EPWave Output](Screenshot_20260530_143625.jpg)
 
 ---
 

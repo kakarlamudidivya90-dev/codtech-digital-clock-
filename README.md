@@ -148,12 +148,13 @@ endmodule
 ## 📊 SIMULATION RESULTS & OUTPUT IMAGES
 
 ### **1. Console Output Log Screen Shot**
-![Console Output](Screenshot_2026_0530_113348402.jpg)![Console Output 2]
-(Screenshot_20260530_143406.jpg)
+![Console Output 1](Screenshot_2026_0530_113348402.jpg)
+
+![Console Output 2](Screenshot_20260530_143406.jpg)
 
 
 ### **3. Timing Waveforms Screen Shot (EPWave)**
-![timing waveforms](Screenshot_113402.jpg)
+![Timing Waveforms](Screenshot_20260530_143406.jpg)
 
 
 ---

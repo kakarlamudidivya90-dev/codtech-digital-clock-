@@ -148,12 +148,11 @@ endmodule
 ## 📊 SIMULATION RESULTS & OUTPUT IMAGES
 
 ### **1. Console Output Log Screen Shot**
-![Console Output](Screenshot_2026_0530_113348402.jpg)
-![Console Output 2](Screenshot_113402.jpg)
+
 
 
 ### **3. Timing Waveforms Screen Shot (EPWave)**
-![Timing Waveforms](Screenshot_20260530_143406.jpg)
+https://raw.githubusercontent.com/kakarlamudidivya90-dev/codtech-digital-clock-/refs/heads/main/Screenshot_20260530_113042.jpg
 
 ---
 

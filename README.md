@@ -151,10 +151,11 @@ endmodule
 ![Console Output1](Screenshot_2026_0530_113348.jpg)
 
 ### **2. Console output log screen shot**
-![EDA Code](Screenshot_20260530_143510.jpg)
+![console output 2]
+(Screenshot_113402.jpg)
 
 ### **3. Timing Waveforms Screen Shot (EPWave)**
-![EPWave Output](Screenshot_20260530_143625.jpg)
+![Timing Waveforms](Screenshot_20260530_143406.jpg)
 
 ---
 
